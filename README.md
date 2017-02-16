@@ -1,2 +1,2 @@
-# hell-world
-wlecome
+#hello-world
+wlecome to my first repo
